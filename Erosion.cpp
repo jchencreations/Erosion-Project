@@ -2,6 +2,12 @@
 
 int main()
 {
-	std::cout << "Hello, world!";
+	int width = 10;
+	int length = 10;
+
+
+    std::cout << "Terrain size: "
+        << width << " x "
+        << length << std::endl;
 	return 0;
 }

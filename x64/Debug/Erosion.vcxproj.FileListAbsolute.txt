@@ -1,1 +1,2 @@
 C:\Users\jason\Desktop\My Things\Code\Erosion\x64\Debug\Erosion.exe
+C:\Users\jason\Desktop\My Things\Code\Erosion-Project\x64\Debug\Erosion.exe
