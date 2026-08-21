@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Erosion.cpp">
+    <ClCompile Include="..\src\Erosion.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="stb_image_write.h">
+    <ClInclude Include="..\include\perlin.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="perlin.h">
+    <ClInclude Include="..\include\stb_image_write.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

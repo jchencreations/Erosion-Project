@@ -4,10 +4,10 @@
 #include <vector>
 #include <random>
 #include <cmath>
-#include "perlin.h"
+#include "../include/perlin.h"
 
 #define STB_IMAGE_WRITE_IMPLEMENTATION
-#include "stb_image_write.h"
+#include "../include/stb_image_write.h"
 
 double clamp(double a, double b, double c) {
     return std::max(b, std::min(a, c));
