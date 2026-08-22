@@ -4,6 +4,7 @@
 #include <vector>
 #include <random>
 #include <cmath>
+
 #include "../include/perlin.h"
 
 #define STB_IMAGE_WRITE_IMPLEMENTATION
